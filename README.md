@@ -1,1 +1,3 @@
-titulo do meu projeot
+titulo do meu projeto
+
+Ighor Marchi
